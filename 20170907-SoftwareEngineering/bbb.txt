@@ -1,0 +1,5 @@
+a.b		,,,c,b,n
+type,happy,end
+as
+good
+study,love
